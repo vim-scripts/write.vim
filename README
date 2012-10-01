@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4249
+
+Adds utilities to write non-code text, such as articles/novels/journal entries/etc.
+
+Includes the :WriteOn, :WriteOff, and :Write commands (the last which toggles writer mode).
+
+In writer mode the cursor moves screen-wise instead of line-wise. Line numbers are turned off and spell is turned on. Numerous other tweaks are included.
